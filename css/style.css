@@ -1,0 +1,13 @@
+h1{
+    font-size: 2em;
+}
+.title{
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    color: black;
+    font-weight: bold;
+}
+i{
+    font-size: 2rem; color: black;
+}
